@@ -1,0 +1,17 @@
+:root {
+    --red: #ff0000;
+    --green: #00ff00;
+    --blue: #0000ff;
+}
+
+header {
+    background-color: var(--red);
+}
+
+main {
+    background-color: var(--green);
+}
+
+footer {
+    background-color: var(--blue);
+}
